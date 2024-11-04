@@ -29,7 +29,7 @@ Descarga el archivo adjunto document.doc y abrelo en word.
 
 Leer: 
 
-Las Normas APA.
+Las Normas APA. Crear tablas, etc.
 
 Instrucciones: 
 
